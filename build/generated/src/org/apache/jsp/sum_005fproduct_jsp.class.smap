@@ -1,0 +1,12 @@
+SMAP
+sum_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 sum_product.jsp
+sum_product.jsp
+*L
+5,16:44
+23,11:63
+33,4:74
+*E

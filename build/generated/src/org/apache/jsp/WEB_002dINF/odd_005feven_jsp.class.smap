@@ -1,0 +1,14 @@
+SMAP
+odd_005feven_jsp.java
+JSP
+*S JSP
+*F
++ 0 odd_even.jsp
+WEB-INF/odd_even.jsp
+*L
+5,15:48
+19,4:10
+22,2:63
+24,10:66
+33,4:76
+*E
